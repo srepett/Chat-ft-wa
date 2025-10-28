@@ -1,0 +1,5 @@
+{
+  "name": "React Chat App",
+  "description": "A web-based chat application similar to WhatsApp, allowing users to register, find other users by ID, and engage in private conversations. The app features a customizable dark theme and profile settings.",
+  "requestFramePermissions": []
+}
